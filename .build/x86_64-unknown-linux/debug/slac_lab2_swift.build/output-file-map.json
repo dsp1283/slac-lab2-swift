@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/app/.build/x86_64-unknown-linux/debug/slac_lab2_swift.build/master.swiftdeps"
+  },
+  "/app/Sources/slac-lab2-swift/main.swift": {
+    "dependencies": "/app/.build/x86_64-unknown-linux/debug/slac_lab2_swift.build/main.d",
+    "object": "/app/.build/x86_64-unknown-linux/debug/slac_lab2_swift.build/main.swift.o",
+    "swiftmodule": "/app/.build/x86_64-unknown-linux/debug/slac_lab2_swift.build/main~partial.swiftmodule",
+    "swift-dependencies": "/app/.build/x86_64-unknown-linux/debug/slac_lab2_swift.build/main.swiftdeps"
+  }
+}

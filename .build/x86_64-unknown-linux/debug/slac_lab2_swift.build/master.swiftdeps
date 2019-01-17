@@ -1,0 +1,5 @@
+version: "Swift version 4.2.1 (swift-4.2.1-RELEASE)"
+options: "25fb41be2d49fce90963a80714eb4093"
+build_time: [1547706692, 86737210]
+inputs:
+  "/app/Sources/slac-lab2-swift/main.swift": [1547706688, 0]
